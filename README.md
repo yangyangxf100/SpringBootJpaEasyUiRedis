@@ -5,5 +5,7 @@
 	Aop
 	方法级缓存
 
-test
-	http://127.0.0.1:8080/boot/task/open
+
+[img]http://chuantu.biz/t5/44/1483088432x1780870332.jpg[/img]
+
+[img]http://chuantu.biz/t5/44/1483088495x1780870332.jpg[/img]
